@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **C#/.NET & PHP/Laravel**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@promiseadeagbo)
+- 📝 I write articles on [medium](https://medium.com/@promiseadeagbo)
 
 - 📫 How to reach me via [mail](promiseadeagbo@gmail.com)
 
